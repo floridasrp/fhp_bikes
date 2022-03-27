@@ -3,7 +3,7 @@
 <CHandlingDataMgr>
   <HandlingData>
     <Item type="CHandlingData">
-      <handlingName>FHPBike1</handlingName>
+      <handlingName>FHP16</handlingName>
       <fMass value="238.000000" />
       <fInitialDragCoeff value="3.000000" />
       <fPercentSubmerged value="95.000000" />
@@ -81,7 +81,7 @@
       </SubHandlingData>
     </Item>
   <Item type="CHandlingData">
-      <handlingName>FHPBike3</handlingName>
+      <handlingName>FHP18</handlingName>
       <fMass value="238.000000" />
       <fInitialDragCoeff value="3.000000" />
       <fPercentSubmerged value="95.000000" />

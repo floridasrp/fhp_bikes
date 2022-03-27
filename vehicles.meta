@@ -4,10 +4,10 @@
   <residentAnims />
   <InitDatas>
     <Item>
-      <modelName>FHPBike1</modelName>
-			<txdName>FHPBike1</txdName>
-			<handlingId>FHPBike1</handlingId>
-			<gameName>FHPBike1</gameName>
+      <modelName>FHP16</modelName>
+			<txdName>FHP16</txdName>
+			<handlingId>FHP16</handlingId>
+			<gameName>FHP16</gameName>
 			<vehicleMakeName/>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
@@ -120,10 +120,10 @@
 			</firstPersonDrivebyData>
 		</Item>
  <Item>
-      <modelName>FHPBike2</modelName>
-			<txdName>FHPBike2</txdName>
+      <modelName>FHP17</modelName>
+			<txdName>FHP17</txdName>
 			<handlingId>POLICEB</handlingId>
-			<gameName>FHPBike2</gameName>
+			<gameName>FHP17</gameName>
 			<vehicleMakeName/>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
@@ -236,10 +236,10 @@
 			</firstPersonDrivebyData>
 		</Item>
   <Item>
-      <modelName>FHPBike3</modelName>
-			<txdName>FHPBike3</txdName>
-			<handlingId>FHPBike3</handlingId>
-			<gameName>FHPBike3</gameName>
+      <modelName>FHP18</modelName>
+			<txdName>FHP18</txdName>
+			<handlingId>FHP18</handlingId>
+			<gameName>FHP18</gameName>
 			<vehicleMakeName/>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>

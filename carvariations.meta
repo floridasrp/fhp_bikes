@@ -2,7 +2,7 @@
 <CVehicleModelInfoVariation>
   <variationData>
     <Item>
-      <modelName>FHPBike1</modelName>
+      <modelName>FHP16</modelName>
       <colors>
         <Item>
           <indices content="char_array">
@@ -34,7 +34,7 @@
       <sirenSettings value="556677886969899"/>
     </Item>
   <Item>
-      <modelName>FHPBike2</modelName>
+      <modelName>FHP17</modelName>
       <colors>
         <Item>
           <indices content="char_array">
@@ -66,7 +66,7 @@
       <sirenSettings value="5566778869699"/>
     </Item>
    <Item>
-      <modelName>FHPBike3</modelName>
+      <modelName>FHP18</modelName>
       <colors>
         <Item>
           <indices content="char_array">

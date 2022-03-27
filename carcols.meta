@@ -5,7 +5,7 @@
 	
 	<Item>
       <id value="556677886969899"/>
-      <name>FHPBike1</name>
+      <name>FHP16</name>
       <timeMultiplier value="1.00000000"/>
       <lightFalloffMax value="100.00000000"/>
       <lightFalloffExponent value="100.00000000"/>
@@ -776,7 +776,7 @@
     </Item>
 	<Item>
       <id value="5566778869699"/>
-      <name>FHPBike2</name>
+      <name>FHP17</name>
       <timeMultiplier value="1.00000000"/>
       <lightFalloffMax value="100.00000000"/>
       <lightFalloffExponent value="100.00000000"/>
@@ -1547,7 +1547,7 @@
     </Item>
 	<Item>
       <id value="556677886969877"/>
-      <name>FHPBike3</name>
+      <name>FHP18</name>
       <timeMultiplier value="1.00000000"/>
       <lightFalloffMax value="100.00000000"/>
       <lightFalloffExponent value="100.00000000"/>
